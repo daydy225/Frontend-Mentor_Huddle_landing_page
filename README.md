@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend-Mentor_Huddle_landing_page](https://github.com/daydy225/Frontend-Mentor_Huddle_landing_page)
+- Live Site URL: [fm-landing-challenge.netlify.app](https://fm-landing-challenge.netlify.app/)
 
 ## My process
 
