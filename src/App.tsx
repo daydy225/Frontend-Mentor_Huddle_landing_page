@@ -16,7 +16,7 @@ const theme = {
     footer: 'hsl(192, 100%, 9%)'
   },
   // isToggle: false,
-  mobile: '375px',
+  mobile: '768px',
 }
 
 const  App:React.FC = () =>{
