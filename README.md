@@ -10,7 +10,7 @@ This is a solution to the [Huddle landing page with alternating feature blocks c
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
       - [Desktop version](#desktop-version)
-      - [Desktop version](#desktop-version-1)
+      - [Mobile version](#mobile-version)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -31,7 +31,7 @@ Users should be able to:
  
 ![Desktop version](./FM-landing_page_desktop.png)
 
-#### Desktop version  
+#### Mobile version  
 
 ![Mobile version](./FM-landing_page_mobile.png)
 
