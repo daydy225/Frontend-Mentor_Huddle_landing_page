@@ -47,10 +47,11 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- [TypeScript](https://www.typescriptlang.org/) - Strongly Typed Language built on JS
+- [TypeScript](https://www.typescriptlang.org/) - JS superset
 - [React](https://reactjs.org/) - JS library
-- [Styled Components](https://styled-components.com/) - For styles
-- [React Icons](https://react-icons.github.io/react-icons/) - For Icons
+- [Styled Components](https://styled-components.com/) - For styles and components
+- [React Icons](https://react-icons.github.io/react-icons/) - For icons
+- [Vite](https://https://vitejs.dev/) - Next Generation Frontend Tooling
 
 
 ### What I learned
